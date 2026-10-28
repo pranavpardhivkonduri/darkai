@@ -18,6 +18,8 @@ frontend/dist/
 .pytest_cache/
 test_darkai.db
 
-# OS
+# OS & Binaries
 .DS_Store
 Thumbs.db
+*.exe
+cloudflared.exe
